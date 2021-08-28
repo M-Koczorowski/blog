@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michał Koczorowski</title>
+    <link>https://m-koczorowski.github.io/</link>
+    <description>Recent content on Michał Koczorowski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://m-koczorowski.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Hugo</title>
+      <link>https://m-koczorowski.github.io/about-me/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://m-koczorowski.github.io/about-me/</guid>
+      <description>My name is Michał Koczorowski, I am currently a student in High School on IT profile. I am interested in netsec, and Linux systems and servers. This site is my personal blog and place where you can find some informations about me. This markdown site is an excerise for me in deploying with github pages and usage of git. </description>
+    </item>
+    
+    <item>
+      <title>My first blog post</title>
+      <link>https://m-koczorowski.github.io/posts/first-post/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://m-koczorowski.github.io/posts/first-post/</guid>
+      <description>Introduction This is my first post on this blog. Here I will share thigns I find interestig and my thoughts.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Michał Koczorowski</title>
+		<link>https://m-koczorowski.github.io/posts/</link>
+		<description>Recent content in Posts on Michał Koczorowski</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate>
+		<atom:link href="https://m-koczorowski.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>My first blog post</title>
+			<link>https://m-koczorowski.github.io/posts/first-post/</link>
+			<pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://m-koczorowski.github.io/posts/first-post/</guid>
+			<description>Introduction This is my first post on this blog. Here I will share thigns I find interestig and my thoughts.</description>
+			<content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>This is my first post on this blog. Here I will share thigns I find interestig and my thoughts.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
