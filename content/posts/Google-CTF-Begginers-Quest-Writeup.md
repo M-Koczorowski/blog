@@ -11,7 +11,7 @@ Last weekend,while scrolling twitter I saw the post about Google CTF. Of course 
 So after my introduction to my new role as a spy I quickly grabbed a friend and we started to get going with the first task.
 
 ## Novosibirsk - CTTV hacking
-First we were tasked with, breaking into a monitoring system of some super secret facility, secured by famous cybersecurity company "YesWeAreSecure™". First thing I done was viewing the source code and look what I found, a javacript that checks the password. ![](static/images/source-cctv.png)
+First we were tasked with, breaking into a monitoring system of some super secret facility, secured by famous cybersecurity company "YesWeAreSecure™". First thing I done was viewing the source code and look what I found, a javacript that checks the password. ![](static/source-cctv.png)
 
 Then I concluded that the numbers in the starting with 52xx were ASCII characters and all left to do was to substract 0xCafe from that. The password I got was 
 ```
