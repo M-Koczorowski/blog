@@ -1,7 +1,6 @@
 ---
 title: "Google CTF Begginers Quest Writeup"
 date: 2021-09-02T19:13:48+02:00
-tags = ["CTF", "Google" ]
 draft: false
 ---
 
